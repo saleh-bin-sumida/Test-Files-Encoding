@@ -1,2 +1,2 @@
-System.Console.WriteLine("Hello, World!");
-System.Console.WriteLine("ÕÇáÍ ãÍãÏ");
+ï»¿System.Console.WriteLine("Hello, World!");
+System.Console.WriteLine("ØµØ§Ù„Ø­ Ù…Ø­Ù…Ø¯");
